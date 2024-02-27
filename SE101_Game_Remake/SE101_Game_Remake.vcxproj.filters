@@ -13,5 +13,22 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Resource Files\Background">
+      <UniqueIdentifier>{e65ed31f-a781-41eb-bdd5-fe1f179bb126}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Map">
+      <UniqueIdentifier>{ce602d08-43d4-45cd-ae6f-215935f0a37e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="E:\Download\ContraGame\MapEditor\Resource\BG1.png">
+      <Filter>Resource Files\Map</Filter>
+    </Image>
+    <Image Include="E:\Download\ContraGame\MapEditor\Resource\BG2.png">
+      <Filter>Resource Files\Map</Filter>
+    </Image>
+    <Image Include="E:\Download\ContraGame\MapEditor\Resource\BG3.png">
+      <Filter>Resource Files\Map</Filter>
+    </Image>
   </ItemGroup>
 </Project>
