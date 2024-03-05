@@ -131,6 +131,9 @@
     <Image Include="E:\Download\ContraGame\MapEditor\Resource\BG2.png" />
     <Image Include="E:\Download\ContraGame\MapEditor\Resource\BG3.png" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="WinMain.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

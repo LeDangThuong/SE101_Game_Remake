@@ -31,4 +31,9 @@
       <Filter>Resource Files\Map</Filter>
     </Image>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
